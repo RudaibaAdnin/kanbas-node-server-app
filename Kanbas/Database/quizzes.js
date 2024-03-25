@@ -1,0 +1,45 @@
+export default [
+        {
+            "_id": "Q101",
+            "name": "Propulsion Assignment",
+            "description": "Description of Propulsion Assignment",
+            "course": "RS101",
+            "dueDate": "2023-01-10",
+            "availableDate": "2023-05-15",
+            "untilDate": "2023-10-10",
+            "type": "Graded Quiz",
+            "assignmentGroup": "Quizzes",
+            "shuffleAnswers": "Yes",
+            "timeLimit": 20,
+            "multipleAttempts": "No",
+            "showCorrectAnswers": "No",
+            "accessCode": "",
+            "oneQuestionAtATime": "Yes",
+            "webcamRequired": "No",
+            "lockQuestionsAfterAnswering": "No",
+            "publish": "No",
+            "points": "0"
+            
+        },
+        {
+            "_id": "Q102",
+            "name": "Combustion Analysis",
+            "description": "Description of Combustion Analysis Assignment",
+            "course": "RS101",
+            "dueDate": "2023-01-10",
+            "availableDate": "2023-05-15",
+            "untilDate": "2023-10-10",
+            "type": "Practice Quiz",
+            "assignmentGroup": "Assignments",
+            "shuffleAnswers": "Yes",
+            "timeLimit": 30,
+            "multipleAttempts": "Yes",
+            "showCorrectAnswers": "Yes",
+            "accessCode": "FIRE123",
+            "oneQuestionAtATime": "No",
+            "webcamRequired": "Yes",
+            "lockQuestionsAfterAnswering": "Yes",
+            "publish": "No",
+            "points": "0"
+        }
+    ]
